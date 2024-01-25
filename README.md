@@ -2,7 +2,7 @@
 
 ## Usage
 
-- 手元で使うときは、`secret_information.py`にAPI-keyを`SECRET_API_KEY`という変数名で定義してください
+- 手元で使うときは、`secret_information.py`というファイルを`maketranspiler.py`と同じディレクトリに作成し、API-keyを`SECRET_API_KEY`という変数名で定義してください
 
 ```py
 >>> import maketranspiler as mt
