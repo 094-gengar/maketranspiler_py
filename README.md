@@ -1,6 +1,9 @@
 # maketranspiler_py
 
 ## Usage
+
+- 手元で使うときは、`secret_information.py`にAPI-keyを`SECRET_API_KEY`という変数名で定義してください
+
 ```py
 >>> import maketranspiler as mt
 >>> transpiler = mt.transpiler_class("Python")
