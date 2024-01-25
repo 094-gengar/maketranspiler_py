@@ -1,8 +1,9 @@
 # maketranspiler_py
 
-## Usage
-
+- WSL2 Ubuntu 22.04 + Python 3.10.12 + openai 1.8.0 で動作確認済み
 - 手元で使うときは、`secret_information.py`というファイルを`maketranspiler.py`と同じディレクトリに作成し、API-keyを`SECRET_API_KEY`という変数名で定義してください
+
+### Usage / Example
 
 ```py
 >>> import maketranspiler as mt
